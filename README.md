@@ -9,7 +9,7 @@
 <h3>言語系</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,c,c++" />
+    <img src="https://skillicons.dev/icons?i=py,html,c,cpp" />
   </a>
 </p>
 <h3>制作・環境系</h3>
