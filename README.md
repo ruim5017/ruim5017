@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-高専１年。プログラミング修行1年目。師匠たちのおかげで何とかやれてる。<br>unnityとblenderメインに勉強している<br><a href="https://codic.jp/"></a>中毒者<br><　　　　　　　　　　　　　<br>
+高専１年。プログラミング修行1年目。師匠たちのおかげで何とかやれてる感じ。<br>unnityとblenderメインに勉強している<br><a href="https://codic.jp/"><br>今のところ一番大きい目標がゲームを作ること</br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruim5017&ja)](https://github.com/anuraghazra/github-readme-stats)
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ruim5017&no-bg=true&no-frame=true&langs_count=30&hide=html,css&layout=compact"/>
@@ -9,7 +9,7 @@
 <h3>言語系</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,r,ts,vue,js,html,css,c,cs,cpp,java,kotlin,mysql,php,powershell,cmake,dart" />
+    <img src="https://skillicons.dev/icons?i=py,html,c,c++" />
   </a>
 </p>
 <h3>ライブラリ・ビルダー(?)系</h3>
